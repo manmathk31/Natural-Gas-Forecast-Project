@@ -42,8 +42,6 @@ It demonstrates how to use historical natural gas price data to:
 
 ## 🔧 Requirements
 
-Make sure you have Python 3 installed.
-
 To install all necessary dependencies, run:
 
 ```bash
